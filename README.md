@@ -8,7 +8,7 @@ Profile under construction :construction:
 <!-- <a href="https://www.linkedin.com/in/eric-sanz-rodriguez/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a> -->
 
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
-![](https://img.shields.io/badge/Code-Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![](https://img.shields.io/badge/Code-Redux-593D88?style=flat&logo=redux&logoColor=white)
 ![](https://img.shields.io/badge/Code-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=yellow)
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=EricSanz.visitor-badge)
