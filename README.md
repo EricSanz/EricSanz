@@ -3,9 +3,12 @@
 Profile under construction :construction:
 
 <a href="https://www.linkedin.com/in/eric-sanz-rodriguez/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<!-- <a href="https://www.linkedin.com/in/eric-sanz-rodriguez/">https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white</a> -->
+
 <!-- <a href="https://www.linkedin.com/in/eric-sanz-rodriguez/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a> -->
 
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
+![](https://img.shields.io/badge/Code-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=EricSanz.visitor-badge)
 
