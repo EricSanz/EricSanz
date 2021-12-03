@@ -1,10 +1,10 @@
-<h2>Hi there, I'm Eric 👋</h2>
+<h1>Hi there👋 I'm Eric, nice to have you here.</h1>
 
 I'm a graphic designer and a photographer lover, but it wasn't until I discovered the fascinating world of web development that I knew what it was like to do what you are really passionate about.
 
 This is my github's profile where I share my projects so you can take a look at my code and what I've been creating.
 
-### These are some of the tecnologies I use:
+<h2>These are some of the tecnologies I use:</h2>
 
 <li> Frontend: </li>
 
@@ -52,22 +52,39 @@ This is my github's profile where I share my projects so you can take a look at 
 ![](https://img.shields.io/badge/Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white)
 ![](https://img.shields.io/badge/InDesign-49021F?style=flat&logo=adobeindesign&logoColor=white)
 
+<br>
+
 I also know ![](https://img.shields.io/badge/Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=white&color=7952B3) and other libraries but I prefer pure css/sass with javascript/typescript.
 
-<!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=EricSanz)](https://github.com/EricSanz) -->
+<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EricSanz&layout=compact&bg_color=161616&text_color=fff&title_color=fff)](https://github.com/EricSanz)
 
+<h2> Some info about me: </h2>
+
+- 📌 I’m currently working on a videogames website project in my spare time.
+- ✨ Next thing I want to learn is Vue and Vuex.
+- ✈️ I love to travel, meet people and discover different cultures.
+- 🌿 Nature, hike mountains, be lost km away from everything, peace of mind.
+- ❄️ Winter team.
+- 🎵 Can't understand life without music. 
+- 📄 Other interest and hobbies: books, photography, cooking & eat, videogames, sports.
+
+<br>
 
 You can send me an e-mail to:
 
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:eric_sanz_rodriguez@hotmail.com)
 
-or connect with me:
+Or connect with me:
 
 <a href="https://www.linkedin.com/in/eric-sanz-rodriguez/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)</a>
 <a href="https://www.instagram.com/ericsanz">![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)</a>
 <a href="https://twitter.com/Eric_SanzR">![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)</a>
+
+
+<h3>See you soon & happy Codding!</h3>
+<br>
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=EricSanz.visitor-badge)
 <!--
@@ -75,7 +92,7 @@ or connect with me:
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔛 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
