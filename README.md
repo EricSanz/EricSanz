@@ -20,7 +20,7 @@ or connect with me:
 <a href="https://www.instagram.com/ericsanz">![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)</a>
 <a href="https://twitter.com/Eric_SanzR">![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)</a>
 
-<a href="eric_sanz_rodriguez@hotmail.com">![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)</a>
+<!-- <a href="eric_sanz_rodriguez@hotmail.com">![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)</a> -->
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=EricSanz.visitor-badge)
 <!--
