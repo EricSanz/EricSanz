@@ -86,4 +86,6 @@ Or connect with me:
 <h3>See you soon & happy Coding!</h3>
 <br>
 
+<!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=EricSanz.EricSanz) -->
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=EricSanz.visitor-badge)
+
