@@ -1,4 +1,4 @@
-<h2 color="red" >### Hi there, I'm Eric 👋</h2>
+###<h2 color="red">Hi there, I'm Eric 👋</h2>
 
 Profile under construction :construction:
 
