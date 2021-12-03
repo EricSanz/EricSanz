@@ -54,8 +54,9 @@ This is my github's profile where I share my projects so you can take a look at 
 
 I also know ![](https://img.shields.io/badge/Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=white&color=7952B3) and other libraries but I prefer pure css/sass with javascript/typescript.
 
+<!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=EricSanz)](https://github.com/EricSanz) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EricSanz&layout=compact&bg_color=#000000)](https://github.com/EricSanz)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EricSanz&layout=compact&bg_color=161616&text_color=fff&title_color=fff)](https://github.com/EricSanz)
 
 
 You can send me an e-mail to:
