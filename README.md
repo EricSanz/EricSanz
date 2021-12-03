@@ -1,4 +1,4 @@
-#61DAFB Hi there, I'm Eric 👋
+<h2>Hi there, I'm Eric 👋</h2>
 
 Profile under construction :construction:
 
