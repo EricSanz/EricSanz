@@ -6,9 +6,9 @@ This is my github's profile where I share my projects so you can take a look at 
 
 <h2>These are some of the tecnologies I use:</h2>
 
-<li> Frontend: </li>
+Frontend:
 
-![](https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=white)
+- ![](https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=white)
 ![](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
@@ -22,9 +22,9 @@ This is my github's profile where I share my projects so you can take a look at 
 
 
 
-<li> Backend: </li>
+Backend:
 
-![](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+- ![](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 ![](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
 ![](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/Mongoose-4EA94B?style=flat)
@@ -33,9 +33,9 @@ This is my github's profile where I share my projects so you can take a look at 
 ![](https://img.shields.io/badge/Jest-E34F26?style=flat&logo=jest&logoColor=white)
 ![](https://img.shields.io/badge/API_Restful-1572B6?style=flat)
 
-<li> Tools: </li>
+Tools:
 
-![](https://img.shields.io/badge/NPM-informational?style=flat&logo=NPM&color=CB3837)
+- ![](https://img.shields.io/badge/NPM-informational?style=flat&logo=NPM&color=CB3837)
 ![](https://img.shields.io/badge/Git-informational?style=flat&logo=Git&logoColor=white&color=F05032)
 ![](https://img.shields.io/badge/GitHub-informational?style=flat&logo=GitHub&color=181717)
 ![](https://img.shields.io/badge/Eslint-1572B6?style=flat&logo=eslint&logoColor=white)
@@ -44,9 +44,9 @@ This is my github's profile where I share my projects so you can take a look at 
 ![](https://img.shields.io/badge/Figma-informational?style=flat&logo=Figma&color=F24E1E&logoColor=white)
 ![](https://img.shields.io/badge/SonarQube-1572B6?style=flat&logo=sonarqube&logoColor=white)
 
-<li> Graphic design: </li>
+Graphic design:
 
-![](https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white)
+- ![](https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white)
 ![](https://img.shields.io/badge/Illustrator-%23FF9A00.svg?style=flat&logo=adobeillustrator&logoColor=white)
 ![](https://img.shields.io/badge/Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white)
 ![](https://img.shields.io/badge/Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white)
