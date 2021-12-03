@@ -62,7 +62,7 @@ I also know ![](https://img.shields.io/badge/Bootstrap-informational?style=flat&
 
 <h2> Some info about me: </h2>
 
-- 📌 I’m currently working on a videogames website project in my spare time.
+- 📌 I’m currently working on an e-commerce website project in my spare time.
 - ✨ Next thing I want to learn is Vue and Vuex.
 - ✈️ I love to travel, meet people and discover different cultures.
 - 🌿 Nature, hike mountains, be lost km away from everything, peace of mind.
