@@ -13,7 +13,7 @@ These are some of the tecnologies I use:
 
 You can send me an e-mail to:
 
-![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white&mailto:eric_sanz_rodriguez@hotmail.com) 📫 eric_sanz_rodriguez@hotmail.com
+[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:eric_sanz_rodriguez@hotmail.com) 📫
 
 or connect with me:
 
