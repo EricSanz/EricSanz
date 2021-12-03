@@ -11,16 +11,15 @@ These are some of the tecnologies I use:
 ![](https://img.shields.io/badge/Code-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=yellow)
 ![]()
 
-You can send me an e-mail to: 
-📫 eric_sanz_rodriguez@hotmail.com
+You can send me an e-mail to:
+
+![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white&mailto=eric_sanz_rodriguez@hotmail.com) 📫 eric_sanz_rodriguez@hotmail.com
 
 or connect with me:
 
 <a href="https://www.linkedin.com/in/eric-sanz-rodriguez/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)</a>
 <a href="https://www.instagram.com/ericsanz">![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)</a>
 <a href="https://twitter.com/Eric_SanzR">![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)</a>
-
-<!-- <a href="eric_sanz_rodriguez@hotmail.com">![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)</a> -->
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=EricSanz.visitor-badge)
 <!--
