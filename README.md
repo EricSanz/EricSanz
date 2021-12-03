@@ -68,7 +68,7 @@ I also know ![](https://img.shields.io/badge/Bootstrap-informational?style=flat&
 - 🌿 Nature, hike mountains, be lost km away from everything, peace of mind.
 - ❄️ Winter team.
 - 🎵 Can't understand life without music. 
-- 📄 Other interest and hobbies: books, photography, cooking & eat, videogames, sports.
+- 📄 Other interest and hobbies: books, photography, cooking & food, videogames, sports.
 
 <br>
 
