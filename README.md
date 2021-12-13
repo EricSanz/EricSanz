@@ -60,18 +60,6 @@ I also know ![](https://img.shields.io/badge/Bootstrap-informational?style=flat&
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EricSanz&layout=compact&bg_color=161616&text_color=fff&title_color=fff)](https://github.com/EricSanz)
 
-<h2> Some info about me: </h2>
-
-- 📌 I’m currently working on an e-commerce website project in my spare time.
-- ✨ Next thing I want to learn is Vue and Vuex.
-- ✈️ I love to travel, meet people and discover different cultures.
-- 🌿 Nature, hike mountains, be lost km away from everything, peace of mind.
-- ❄️ Winter team.
-- 🎵 Can't understand life without music. 
-- 📄 Other interest and hobbies: books, photography, cooking & food, videogames, sports.
-
-<br>
-
 You can send me an e-mail to:
 
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:eric_sanz_rodriguez@hotmail.com)
@@ -81,7 +69,6 @@ Or connect with me:
 <a href="https://www.linkedin.com/in/eric-sanz-rodriguez/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)</a>
 <a href="https://www.instagram.com/ericsanz">![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)</a>
 <a href="https://twitter.com/Eric_SanzR">![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)</a>
-
 
 <h3>See you soon & happy Coding!</h3>
 <br>
