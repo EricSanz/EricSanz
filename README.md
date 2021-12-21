@@ -1,8 +1,8 @@
 <h1>Hi there👋 I'm Eric, nice to have you here.</h1>
 
-I'm a graphic designer and a photographer lover, but it wasn't until I discovered the fascinating world of web development that I knew what it was like to do what you are really passionate about.
+I'm a graphic designer and I love photography, but it wasn't until I discovered the fascinating world of web development that I knew what it was like to do what you are really passionate about.
 
-This is my github's profile where I share my projects so you can take a look at my code and what I've been creating.
+Here I'll share my projects so you can take a look at my code and what I've been creating.
 
 <h2>These are some of the tecnologies I use:</h2>
 
