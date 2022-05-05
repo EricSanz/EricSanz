@@ -1,8 +1,8 @@
 <h1>Hi there👋 I'm Eric, nice to have you here.</h1>
 
-I'm a graphic designer and I love photography, but it wasn't until I discovered the fascinating world of web development that I knew what it was like to do what you are really passionate about.
+I'm a graphic designer, but it wasn't until I discovered the fascinating world of web development that I knew what it was like to do what you are really passionate about. I can be coding for hours and it seems only a few minuts have passed, time flies. 
 
-Here I'll share my projects so you can take a look at my code and what I've been creating.
+Here I'll share my projects so you can take a look at my code and what I've been coding.
 
 <h2>These are some of the tecnologies I use:</h2>
 
@@ -10,6 +10,7 @@ Frontend:
 
 - ![](https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=white)
 ![](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white)
+![](https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
